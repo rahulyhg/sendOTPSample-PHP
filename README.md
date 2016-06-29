@@ -23,6 +23,6 @@ Thanks.
  
 ##### Make Following changes :  
 
-* Put your app key in sendOTP.php
+* Put your app key in index.php
 * Replace your Domain name in sendOTP.php
 
